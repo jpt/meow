@@ -1,5 +1,7 @@
 # Meow
-Meow is a font for cats. Look what happens when a cat types using Meow:
+Meow is a font for cats designed by <a href="https://tribby.com/">Jeremy Tribby</a> and Jay Weiler.
+
+Look what happens when a cat types using Meow:
 
 ![Cat Typing](https://raw.githubusercontent.com/jpt/meow/master/documentation/cat.png)
 
